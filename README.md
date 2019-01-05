@@ -1,4 +1,4 @@
-stealth
+stealth_eth
 =======
 
 [![build status](https://secure.travis-ci.org/cryptocoinjs/stealth.svg)](http://travis-ci.org/cryptocoinjs/stealth)
